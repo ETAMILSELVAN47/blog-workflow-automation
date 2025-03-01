@@ -1,0 +1,11 @@
+python-dotenv
+langchain
+langchain-groq
+langgraph
+ipykernel
+httplib2
+google_auth_oauthlib
+google-api-python-client
+oauth2client
+langchain_community
+langgraph-cli[inmem]

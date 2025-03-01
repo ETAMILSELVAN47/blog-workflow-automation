@@ -1,0 +1,7 @@
+{
+    "dependencies":["."],
+    "graphs":{
+        "blogger_agent":"./blogger_agent.py:blogger"
+    },
+    "env":"/.env"
+}
